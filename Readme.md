@@ -34,7 +34,7 @@ Pretty basic and minimalist configurations, just like [dotfiles-and-more], but w
 
 8. **Xfce4-terminal colorschemes** = [Nord](https://github.com/arcticicestudio/nord-xfce-terminal), [Gruvbox](https://gist.github.com/tsbarnes/76724165773e834ea90c), Nord-dark
 
-9. **Debian Homeworld wallpaper included under homeworld directory. Credits to ** 
+9. **Debian Homeworld wallpaper included under homeworld directory. Credits to @julietteTaka (: ** 
 
 10. **bonus.sh** = If you wish to download some packages I use on a daily basis, they are included in bonus.sh script. You can run it with either by running setup.sh or running it manually from your shell
 
