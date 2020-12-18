@@ -137,3 +137,5 @@ Gruvbox and Nord are two colorschemes I switch back and forth. I mostly end up u
 Clone the repo, cd into birthday-dots/ and run setup.sh. Some of the steps require you to have administrative privilege and is left for you to install manually if setup.sh is not executed as root.
 
 ***Godspeed... (:***
+
+Feel free to support at [bitcoin] 13erq7DDXDuqqBohht3UNyuJCXtpJcWGSe
