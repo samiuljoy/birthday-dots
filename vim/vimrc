@@ -10,6 +10,9 @@ map w :w<ENTER>
 " colo miramare
 " colo camo
 colo iceberg
+set cursorline
+set number
+set relativenumber
 " colo substrata
 " colo gruvbox
 set ls=0
