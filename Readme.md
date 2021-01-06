@@ -138,4 +138,4 @@ Clone the repo, cd into birthday-dots/ and run setup.sh. Some of the steps requi
 
 ***Godspeed... (:***
 
-Feel free to support at [bitcoin] 13erq7DDXDuqqBohht3UNyuJCXtpJcWGSe
+Feel free to support with [bitcoin] 13erq7DDXDuqqBohht3UNyuJCXtpJcWGSe
